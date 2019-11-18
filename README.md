@@ -7,7 +7,7 @@
 1. clone this repo to /var/www/html/lfi  
 > cd /var/www/html
 > mkdir lfi
-> cd lfi
+> cd lfi  
 > git clone https://github.com/imreplay/lfi_test ./
 
 2. run apache2 webserver  
