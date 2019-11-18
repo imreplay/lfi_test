@@ -5,8 +5,8 @@
 >> all command will be excute **root**
 
 1. clone this repo to /var/www/html/lfi  
-> cd /var/www/html
-> mkdir lfi
+> cd /var/www/html  
+> mkdir lfi  
 > cd lfi  
 > git clone https://github.com/imreplay/lfi_test ./
 
